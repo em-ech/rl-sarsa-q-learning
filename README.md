@@ -1,4 +1,4 @@
-# reinforcement-learning-sarsa-q-learning
+# SARSA and Q-Learning on Taxi and Cliff Walking
 
 Tabular TD control on Taxi and Cliff Walking — SARSA (on-policy) and Q-Learning (off-policy) — reproducing Sutton & Barto §6.5's classic on-vs-off-policy comparison.
 
